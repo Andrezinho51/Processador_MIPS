@@ -1,0 +1,512 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/simulation/modelsim
+Eadder
+Z1 w1701668630
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/adder.vhd
+Z7 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/adder.vhd
+l0
+L6
+V]QLM`4o2T9MCifUgPWlNl1
+!s100 7@k_OeFc4EJ7]kUW0XM<>0
+Z8 OV;C;10.5b;63
+33
+Z9 !s110 1701709330
+!i10b 1
+Z10 !s108 1701709330.000000
+Z11 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/adder.vhd|
+Z12 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/adder.vhd|
+!i113 1
+Z13 o-2008 -work work
+Z14 tExplicit 1 CvgOpt 0
+Abeh
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 ]QLM`4o2T9MCifUgPWlNl1
+l14
+L13
+VEY1kEJM>Wm<L_UK1j>hSD0
+!s100 5LhcG7L>HHd4]`f^ofHiV2
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu
+Z15 w1701668621
+R2
+R3
+R4
+R5
+R0
+Z16 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu.vhd
+Z17 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu.vhd
+l0
+L12
+VIPhSQg2OHSzBR>Q:L7;oG2
+!s100 le9XATJnC8j_L`;Ob<QRO0
+R8
+33
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu.vhd|
+Z19 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu.vhd|
+!i113 1
+R13
+R14
+Abeh
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 IPhSQg2OHSzBR>Q:L7;oG2
+l29
+L21
+VMAV>k^Q<nb:VdK<hoIVf93
+!s100 9VbGNm0@JkgWmB]UF1Og[0
+R8
+33
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Ealu_control
+Z20 w1701668175
+Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R4
+R5
+R0
+Z22 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu_control.vhd
+Z23 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu_control.vhd
+l0
+L14
+VRTTachg17;D8`RT6[QEge3
+!s100 ;F`nlhfhW2;clAi]97eSo3
+R8
+33
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu_control.vhd|
+Z25 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/alu_control.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 11 alu_control 0 22 RTTachg17;D8`RT6[QEge3
+l30
+L22
+VRbg03R1o>_8idk^d>7B0j1
+!s100 4:k;lh=d63<G2@82P=:`U0
+R8
+33
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Econtrol
+Z26 w1701709278
+R21
+R4
+R5
+R0
+Z27 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/control.vhd
+Z28 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/control.vhd
+l0
+L17
+VW_Wz2ziMjcU@465T>BB2e0
+!s100 EhORh:LBUcD<1ZbF7:LTc1
+R8
+33
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/control.vhd|
+Z30 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/control.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 7 control 0 22 W_Wz2ziMjcU@465T>BB2e0
+l26
+L25
+V[e;=hc_5fMSc;_c<8]O7Z2
+!s100 iL[AZbV6CmNF]<TW9[jI[3
+R8
+33
+R9
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Einstruction_memory
+Z31 w1701708400
+R21
+R4
+R5
+R0
+Z32 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/instruction_memory.vhd
+Z33 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/instruction_memory.vhd
+l0
+L13
+Vd7CknS?BidYPzT393LLjj2
+!s100 ?TCIL62=;:7]7SLI_KQ<T1
+R8
+33
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/instruction_memory.vhd|
+Z35 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/instruction_memory.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R21
+R4
+R5
+DEx4 work 18 instruction_memory 0 22 d7CknS?BidYPzT393LLjj2
+l61
+L21
+V`MBT8`5iG7=4ILGbGeeD]3
+!s100 AJU_7AR@;MJJEULGM[NXa2
+R8
+33
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
+Emain
+Z36 w1701707890
+R2
+R3
+R4
+R5
+R0
+Z37 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/main.vhd
+Z38 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/main.vhd
+l0
+L6
+Vg?zk?TA4aBF^Bch6>=QBj2
+!s100 9Oc2>QnMXOXfF27ikPzQZ1
+R8
+33
+R9
+!i10b 1
+R10
+Z39 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/main.vhd|
+Z40 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/main.vhd|
+!i113 1
+R13
+R14
+Abeh
+R2
+R3
+R4
+R5
+DEx4 work 4 main 0 22 g?zk?TA4aBF^Bch6>=QBj2
+l120
+L12
+V:bQJiZKj9RoMPkG7ILWdg2
+!s100 lEF0J7TlSL<[lAVgNRI8H1
+R8
+33
+R9
+!i10b 1
+R10
+R39
+R40
+!i113 1
+R13
+R14
+Ememory
+Z41 w1701652716
+R2
+R3
+R4
+R5
+R0
+Z42 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/memory.vhd
+Z43 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/memory.vhd
+l0
+L5
+VfaVM5Oo=eem:i7mZcCPB@2
+!s100 lMibmSEkhb9B8geAg[0`Z3
+R8
+33
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/memory.vhd|
+Z45 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/memory.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 6 memory 0 22 faVM5Oo=eem:i7mZcCPB@2
+l52
+L14
+VDU@hUT?9CP5l>]FPS0TX>0
+!s100 jQP`g<APiVNg[48?K;_ag0
+R8
+33
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 1
+R13
+R14
+Emux
+Z46 w1701668512
+R21
+R4
+R5
+R0
+Z47 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/mux.vhd
+Z48 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/mux.vhd
+l0
+L5
+Vl_SnY=F;GFF>i>]7Po>Rz3
+!s100 ZFLUSdE4Dg:mSZi@BdcO^1
+R8
+33
+R9
+!i10b 1
+Z49 !s108 1701709329.000000
+Z50 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/mux.vhd|
+Z51 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/mux.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 3 mux 0 22 l_SnY=F;GFF>i>]7Po>Rz3
+l15
+L14
+VLF=Mb5Z>>oTV;7HLK4]GH3
+!s100 eZO8n_`VSMD3>ib>IJ;Mi1
+R8
+33
+R9
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R13
+R14
+Epc
+Z52 w1701668255
+R3
+R2
+R4
+R5
+R0
+Z53 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/pc.vhd
+Z54 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/pc.vhd
+l0
+L11
+VEn6gz^IVAX3jC9DEeEI`Q3
+!s100 6Bm]DW^ifjFoZ:]AkGJj12
+R8
+33
+Z55 !s110 1701709329
+!i10b 1
+R49
+Z56 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/pc.vhd|
+Z57 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/pc.vhd|
+!i113 1
+R13
+R14
+Abeh
+R3
+R2
+R4
+R5
+DEx4 work 2 pc 0 22 En6gz^IVAX3jC9DEeEI`Q3
+l23
+L19
+V0Rg@`A4A>O;gaQj75TMNQ2
+!s100 EzU3mge8:jD;M14;WDgR?2
+R8
+33
+R55
+!i10b 1
+R49
+R56
+R57
+!i113 1
+R13
+R14
+Eregisters
+Z58 w1701668148
+R21
+R4
+R5
+R0
+Z59 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/registers.vhd
+Z60 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/registers.vhd
+l0
+L7
+VU_o<VBmAHHWKcBfhl57J`3
+!s100 dzkGiMATcgh]c:gVaa1UE1
+R8
+33
+R55
+!i10b 1
+R49
+Z61 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/registers.vhd|
+Z62 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/registers.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 9 registers 0 22 U_o<VBmAHHWKcBfhl57J`3
+l58
+L18
+V2nG1cjT49NbT47UX[QJVY1
+!s100 NJ>Tn1F?SzVUG@@d:@`G11
+R8
+33
+R55
+!i10b 1
+R49
+R61
+R62
+!i113 1
+R13
+R14
+Eshifter
+Z63 w1701668325
+R21
+R4
+R5
+R0
+Z64 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/shifter.vhd
+Z65 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/shifter.vhd
+l0
+L7
+V=[`BG0Gg<jUebcO70nS8B1
+!s100 6jHg;WTXz?AZ8K=Qikdk23
+R8
+33
+R55
+!i10b 1
+R49
+Z66 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/shifter.vhd|
+Z67 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/shifter.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 7 shifter 0 22 =[`BG0Gg<jUebcO70nS8B1
+l18
+L15
+V00a8IG1G@>T[Sl5:b<g:Q0
+!s100 c3lgMX0DbCUmbLP^POVQK1
+R8
+33
+R55
+!i10b 1
+R49
+R66
+R67
+!i113 1
+R13
+R14
+Esign_extend
+Z68 w1701668282
+R21
+R4
+R5
+R0
+Z69 8C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/sign_extend.vhd
+Z70 FC:/Users/Luiz/Documents/trabalho final isaias/projeto_final/sign_extend.vhd
+l0
+L7
+VaBf@6A4Od`?f6J=iY40PK0
+!s100 bNgGORT_9KC?E7=P2eHSd3
+R8
+33
+R55
+!i10b 1
+R49
+Z71 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/sign_extend.vhd|
+Z72 !s107 C:/Users/Luiz/Documents/trabalho final isaias/projeto_final/sign_extend.vhd|
+!i113 1
+R13
+R14
+Abeh
+R21
+R4
+R5
+DEx4 work 11 sign_extend 0 22 aBf@6A4Od`?f6J=iY40PK0
+l15
+L14
+V5Je;gXSJ@hobcO83FACd:1
+!s100 `IhmNIl7S3_cJ]FZo6Yb52
+R8
+33
+R55
+!i10b 1
+R49
+R71
+R72
+!i113 1
+R13
+R14
